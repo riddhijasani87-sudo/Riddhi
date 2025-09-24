@@ -1,2 +1,5 @@
-hello my name is riddhi
+<<<<<<< HEAD
+=======
+hello everyoneeee
+>>>>>>> b11
  
